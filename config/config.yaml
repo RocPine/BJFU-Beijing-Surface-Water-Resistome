@@ -1,0 +1,5 @@
+﻿# BeijingARG-resistome 数据路径配置
+# 所有相对路径均相对于本文件所在目录 (仓库根目录)
+# 复现分析: 将随文章发表的 SI 表 (Supplementary_Tables.xlsx) 放入仓库 data/ 目录,
+#           或修改下方 si_tables_xlsx 指向你的本地路径
+si_tables_xlsx: "data/Supplementary_Tables.xlsx"

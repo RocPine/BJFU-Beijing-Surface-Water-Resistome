@@ -1,0 +1,93 @@
+"source","target","value"
+"NCG_Assimilatory nitrate reduction","SP_f__Microcoleaceae spBFQ2_1_bin124",4
+"NCG_Assimilatory nitrate reduction","SP_g__Mxb001 spXFH2_2_bin61",5
+"NCG_Assimilatory nitrate reduction","SP_g__Paludibacterium spGSH1_2_bin89",3
+"NCG_Assimilatory nitrate reduction","SP_g__SYFN01 spYYH3_bin332",3
+"NCG_Assimilatory nitrate reduction","SP_g__SYFN01 spZZY3_bin180",4
+"NCG_Assimilatory nitrate reduction","SP_s__Acinetobacter junii",46
+"NCG_Assimilatory nitrate reduction","SP_s__Arenimonas maotaiensis",40
+"NCG_Assimilatory nitrate reduction","SP_s__UBA3064 sp016868095",5
+"NCG_Assimilatory nitrate reduction","SP_s__UBA3064 sp023258775",3
+"NCG_Denitrification","SP_f__B-17BO spMNH2_2_bin136",3
+"NCG_Denitrification","SP_f__Microcoleaceae spBFQ2_1_bin124",12
+"NCG_Denitrification","SP_g__Methylopumilus spCYGY2_bin96",3
+"NCG_Denitrification","SP_g__Mxb001 spXFH2_2_bin61",6
+"NCG_Denitrification","SP_g__Paludibacterium spGSH1_2_bin89",9
+"NCG_Denitrification","SP_g__Polynucleobacter spWYH1_2_bin108",2
+"NCG_Denitrification","SP_g__Polynucleobacter spWYHGY2_bin215",2
+"NCG_Denitrification","SP_g__SYFN01 spYYH3_bin332",3
+"NCG_Denitrification","SP_g__SYFN01 spZZY3_bin180",10
+"NCG_Denitrification","SP_s__Acinetobacter junii",106
+"NCG_Denitrification","SP_s__Arenimonas maotaiensis",44
+"NCG_Denitrification","SP_s__MAG-120802 sp018883365",2
+"NCG_Denitrification","SP_s__Sediminibacterium sp937900675",2
+"NCG_Denitrification","SP_s__UBA3064 sp016868095",9
+"NCG_Denitrification","SP_s__UBA3064 sp023258775",5
+"NCG_Dissimilatory nitrate reduction","SP_g__Polynucleobacter spWYHGY2_bin215",2
+"NCG_Dissimilatory nitrate reduction","SP_g__SYFN01 spYYH3_bin332",2
+"NCG_Dissimilatory nitrate reduction","SP_s__Acinetobacter junii",29
+"NCG_Dissimilatory nitrate reduction","SP_s__Arenimonas maotaiensis",7
+"NCG_Dissimilatory nitrate reduction","SP_s__UBA3064 sp016868095",4
+"NCG_Dissimilatory nitrate reduction","SP_s__UBA3064 sp023258775",5
+"NCG_N-fixation","SP_f__Microcoleaceae spBFQ2_1_bin124",5
+"NCG_N-fixation","SP_g__Paludibacterium spGSH1_2_bin89",4
+"NCG_N-fixation","SP_g__SYFN01 spZZY3_bin180",4
+"NCG_N-fixation","SP_s__Acinetobacter junii",37
+"NCG_N-fixation","SP_s__Arenimonas maotaiensis",23
+"NCG_N-fixation","SP_s__UBA3064 sp023258775",2
+"NCG_Nitrification","SP_f__Microcoleaceae spBFQ2_1_bin124",4
+"NCG_Nitrification","SP_g__Mxb001 spXFH2_2_bin61",3
+"NCG_Nitrification","SP_s__Acinetobacter junii",43
+"NCG_Nitrification","SP_s__Arenimonas maotaiensis",25
+"NCG_Nitrification","SP_s__UBA3064 sp016868095",5
+"NCG_Nitrification","SP_s__UBA3064 sp023258775",6
+"NCG_Other nitrogen metabolism","SP_f__Microcoleaceae spBFQ2_1_bin124",5
+"NCG_Other nitrogen metabolism","SP_g__Mxb001 spXFH2_2_bin61",5
+"NCG_Other nitrogen metabolism","SP_g__Paludibacterium spGSH1_2_bin89",5
+"NCG_Other nitrogen metabolism","SP_g__SYFN01 spYYH3_bin332",2
+"NCG_Other nitrogen metabolism","SP_g__SYFN01 spZZY3_bin180",5
+"NCG_Other nitrogen metabolism","SP_s__Acinetobacter junii",59
+"NCG_Other nitrogen metabolism","SP_s__Arenimonas maotaiensis",38
+"NCG_Other nitrogen metabolism","SP_s__UBA3064 sp016868095",4
+"NCG_Other nitrogen metabolism","SP_s__UBA3064 sp023258775",7
+"SP_f__B-17BO spMNH2_2_bin136","ARG_macrolide-lincosamide-streptogramin",5
+"SP_f__Microcoleaceae spBFQ2_1_bin124","ARG_beta_lactam",10
+"SP_f__Microcoleaceae spBFQ2_1_bin124","ARG_macrolide-lincosamide-streptogramin",21
+"SP_g__CAIPFQ01 spGSH2_3_bin197","ARG_tetracycline",4
+"SP_g__Methylopumilus spCYGY2_bin96","ARG_polymyxin",4
+"SP_g__Mxb001 spXFH2_2_bin61","ARG_macrolide-lincosamide-streptogramin",17
+"SP_g__Mxb001 spXFH2_2_bin61","ARG_sulfonamide",3
+"SP_g__Paludibacterium spGSH1_2_bin89","ARG_bacitracin",2
+"SP_g__Paludibacterium spGSH1_2_bin89","ARG_beta_lactam",3
+"SP_g__Paludibacterium spGSH1_2_bin89","ARG_polymyxin",18
+"SP_g__Polynucleobacter spWYH1_2_bin108","ARG_bacitracin",4
+"SP_g__Polynucleobacter spWYHGY2_bin215","ARG_bacitracin",7
+"SP_g__SYFN01 spYYH3_bin332","ARG_aminoglycoside",4
+"SP_g__SYFN01 spYYH3_bin332","ARG_bacitracin",4
+"SP_g__SYFN01 spYYH3_bin332","ARG_polymyxin",3
+"SP_g__SYFN01 spZZY3_bin180","ARG_beta_lactam",4
+"SP_g__SYFN01 spZZY3_bin180","ARG_macrolide-lincosamide-streptogramin",10
+"SP_g__SYFN01 spZZY3_bin180","ARG_sulfonamide",9
+"SP_g__UBA954 spLHC3_bin23","ARG_aminoglycoside",4
+"SP_s__Acinetobacter junii","ARG_aminoglycoside",19
+"SP_s__Acinetobacter junii","ARG_bacitracin",3
+"SP_s__Acinetobacter junii","ARG_macrolide-lincosamide-streptogramin",3
+"SP_s__Acinetobacter junii","ARG_multidrug",252
+"SP_s__Acinetobacter junii","ARG_polymyxin",23
+"SP_s__Acinetobacter junii","ARG_tetracycline",20
+"SP_s__Arenimonas maotaiensis","ARG_beta_lactam",16
+"SP_s__Arenimonas maotaiensis","ARG_multidrug",161
+"SP_s__JJ008 sp014190475","ARG_bacitracin",2
+"SP_s__Sediminibacterium sp937900675","ARG_macrolide-lincosamide-streptogramin",3
+"SP_s__UBA3064 sp016868095","ARG_aminoglycoside",6
+"SP_s__UBA3064 sp016868095","ARG_beta_lactam",6
+"SP_s__UBA3064 sp016868095","ARG_chloramphenicol",2
+"SP_s__UBA3064 sp016868095","ARG_macrolide-lincosamide-streptogramin",6
+"SP_s__UBA3064 sp016868095","ARG_multidrug",4
+"SP_s__UBA3064 sp016868095","ARG_polymyxin",4
+"SP_s__UBA3064 sp023258775","ARG_aminoglycoside",3
+"SP_s__UBA3064 sp023258775","ARG_beta_lactam",3
+"SP_s__UBA3064 sp023258775","ARG_fosfomycin",2
+"SP_s__UBA3064 sp023258775","ARG_macrolide-lincosamide-streptogramin",6
+"SP_s__UBA3064 sp023258775","ARG_multidrug",6
+"SP_s__UBA3064 sp023258775","ARG_polymyxin",8
